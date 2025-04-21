@@ -44,7 +44,7 @@ Desain UI harus mengintegrasikan aspek fungsionalitas dengan desain. Aspek terse
 
 ## UX (User Experience) adalah proses pengguna dapat berinteraksi dengan interface (tampilan antarmuka) secara baik dan nyaman.
 
-### 7 Standar untuk mencapai UX yang efektif yaitu :
+## 7 Standar untuk mencapai UX yang efektif yaitu :
 
 - Usable
 - Desirable
@@ -53,9 +53,12 @@ Desain UI harus mengintegrasikan aspek fungsionalitas dengan desain. Aspek terse
 - Credible
 - Accessible
 
-### Tools Yang digunakan Untuk UI/UX designer
+## Tools Yang digunakan Untuk UI/UX designer
 
 1. Figma, tools berbasis vector yang akan membantu kita dalam membuat desain.
 2. Adobe XD, kita bisa menggunakan tools ini untuk merancang interface aplikasi atau website.
 3. InVision, tools yang memiliki fitur untuk membuat desain prototype, design, dan animasi yang pasti membantu designer untuk membuat tampilan yang indah dan interaktif.
 4. Sketch, tools berbasis vector yang berasal dari mac. Jadi, kita tidak memiliki mac tidak akan mendapat akses untuk aplikasi ini. Sketch membantu dalam menciptakan sistem design dan menjaga interface agar tetap konsisten.
+5. Adobe Ilustrator, digunakan untuk membuat ilustrasi berbasis vektor, ikon, tipografi dan lain nya.
+6. MockFLowm sebuah tools yang mempunyai fungsi untuk membuat kerangka dan menata design dalam sebuah web atau aplikasi.
+7. Miro, Sebuah tools virtual whiteboard yang akan memudakna pengguna untuk berkolaborasi dengan mudah dalam suatu proyek bersama. Miro bersifat cloude-based yang sangat cocok digunakan untuk bisnis kecil hingga besar.
